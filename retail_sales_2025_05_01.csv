@@ -1,0 +1,201 @@
+date,department,product_id,product_name,quantity_sold,unit_price,location
+2025-05-01,Appliances,A763,Microwave,2,40.11,Robertshire
+2025-05-08,Electrical,E612,Wire,9,148.91,Jasonborough
+2025-05-01,Appliances,A890,Oven,2,31.56,West Andrewburgh
+2025-05-11,Electrical,E376,GFCI Outlet,7,100.32,New Jose
+2025-05-08,Paint,P995,Interior Paint,7,45.2,West Rachel
+2025-05-06,Paint,P171,Behr Primer,8,91.9,South Joshua
+2025-05-06,Electrical,E735,Wire,9,132.31,East Justinland
+2025-05-10,Paint,P299,Behr Primer,2,103.93,East Kathryn
+2025-05-09,Paint,P190,Behr Primer,8,134.09,East Aaron
+2025-05-07,Paint,P146,Behr Primer,8,75.2,Port Timothy
+2025-05-07,Tools,T365,Cordless Drill,2,129.72,Williamston
+2025-05-15,Appliances,A407,Dishwasher,2,123.56,Robertton
+2025-05-10,Electrical,E950,Wire,10,144.35,Curtisville
+2025-05-08,Tools,T533,Pliers,1,112.3,West Kari
+2025-05-14,Paint,P716,Behr Primer,5,146.39,Brianchester
+2025-05-12,Paint,P910,Behr Primer,6,53.6,North Susanton
+2025-05-10,Electrical,E465,GFCI Outlet,7,83.6,Lake Benjaminbury
+2025-05-14,Electrical,E462,GFCI Outlet,6,61.85,Rayshire
+2025-05-06,Appliances,A517,Microwave,10,47.76,North William
+2025-05-10,Appliances,A930,Mini Fridge,8,48.69,Jennifershire
+2025-05-01,Tools,T228,Wrench Set,10,35.16,Phillipsside
+2025-05-08,Electrical,E532,GFCI Outlet,2,26.21,Guerraborough
+2025-05-06,Appliances,A181,Dishwasher,9,124.29,New Jasonport
+2025-05-06,Tools,T951,Wrench Set,8,33.89,Michaelmouth
+2025-05-06,Paint,P424,Interior Paint,8,43.47,New Shelbyport
+2025-05-09,Electrical,E404,Light Bulb Pack,6,132.59,South John
+2025-05-11,Tools,T462,Wrench Set,2,21.6,Port Heather
+2025-05-14,Tools,T475,Pliers,6,68.82,North Brendaton
+2025-05-07,Tools,T591,Pliers,3,23.56,New Anthonymouth
+2025-05-09,Paint,P171,Brush Kit,8,105.29,East Micheal
+2025-05-07,Tools,T829,Cordless Drill,7,96.65,Guerrabury
+2025-05-06,Electrical,E427,Wire,1,124.74,Jonestown
+2025-05-12,Paint,P589,Interior Paint,4,109.68,Michaelland
+2025-05-05,Paint,P945,Brush Kit,9,89.78,Owenshaven
+2025-05-04,Electrical,E345,Outlet Extension,10,24.84,Jeffreyhaven
+2025-05-03,Appliances,A282,Dishwasher,1,112.76,New Kaylahaven
+2025-05-11,Electrical,E398,Outlet Extension,7,93.74,Michaelport
+2025-05-02,Electrical,E588,Wire,8,66.6,Andrewshire
+2025-05-11,Tools,T557,Pliers,8,101.3,Rhodesmouth
+2025-05-08,Paint,P202,Behr Primer,10,74.08,Kellybury
+2025-05-12,Electrical,E117,GFCI Outlet,3,76.06,Helenstad
+2025-05-03,Paint,P783,Interior Paint,10,97.98,Mooreshire
+2025-05-15,Appliances,A350,Mini Fridge,6,67.01,Gabrielleport
+2025-05-10,Paint,P843,Behr Primer,2,140.01,North Ebony
+2025-05-06,Electrical,E633,Outlet Extension,10,82.83,East Pamelahaven
+2025-05-01,Paint,P108,Sandpaper,6,62.09,East Morganbury
+2025-05-09,Paint,P503,Brush Kit,3,85.99,South Maryborough
+2025-05-06,Appliances,A184,Oven,2,148.52,Catherineport
+2025-05-06,Appliances,A996,Dishwasher,3,104.63,North David
+2025-05-15,Electrical,E113,Light Bulb Pack,6,147.87,Damonborough
+2025-05-06,Tools,T633,Cordless Drill,3,88.25,Thomasbury
+2025-05-11,Appliances,A249,Microwave,1,110.26,South Wendy
+2025-05-07,Appliances,A742,Dishwasher,9,144.14,Watsonfort
+2025-05-08,Electrical,E435,Wire,1,33.01,Lake David
+2025-05-04,Appliances,A939,Microwave,3,42.8,East Travisburgh
+2025-05-05,Appliances,A506,Oven,6,108.51,East Stephanie
+2025-05-03,Paint,P522,Sandpaper,9,35.12,Kevinfort
+2025-05-01,Appliances,A597,Mini Fridge,8,79.91,South Lisabury
+2025-05-05,Tools,T824,Hammer,6,107.34,Robertsonland
+2025-05-05,Tools,T817,Wrench Set,8,126.28,New Brian
+2025-05-01,Tools,T367,Pliers,5,22.13,East Ryanberg
+2025-05-13,Paint,P232,Brush Kit,7,95.37,Scottport
+2025-05-15,Appliances,A112,Microwave,5,19.8,Cindystad
+2025-05-02,Paint,P435,Interior Paint,6,64.28,Port Christopherborough
+2025-05-10,Paint,P910,Sandpaper,8,79.98,Christensenfort
+2025-05-15,Electrical,E690,Light Bulb Pack,7,15.45,East Nathanburgh
+2025-05-01,Tools,T493,Wrench Set,9,139.75,Port Kathy
+2025-05-08,Paint,P307,Sandpaper,9,67.45,Morganfort
+2025-05-05,Tools,T485,Pliers,2,81.32,New Amandaborough
+2025-05-09,Tools,T919,Hammer,9,89.62,Danielville
+2025-05-11,Tools,T560,Cordless Drill,8,126.6,South Karabury
+2025-05-12,Electrical,E232,Wire,10,24.08,Trevorport
+2025-05-03,Electrical,E741,Light Bulb Pack,7,50.23,Lake Seanshire
+2025-05-12,Paint,P725,Sandpaper,3,45.69,Lake Kaitlyn
+2025-05-13,Appliances,A763,Mini Fridge,8,102.02,Eddiemouth
+2025-05-15,Tools,T119,Hammer,1,129.54,Lauraborough
+2025-05-09,Tools,T621,Cordless Drill,5,93.74,Welchchester
+2025-05-11,Tools,T632,Cordless Drill,5,138.63,Lake Lauraview
+2025-05-12,Appliances,A435,Dishwasher,6,96.23,South Rebeccafurt
+2025-05-05,Paint,P321,Behr Primer,8,135.11,Morrowberg
+2025-05-02,Electrical,E857,GFCI Outlet,6,109.0,Castroview
+2025-05-10,Appliances,A710,Dishwasher,9,115.5,Langhaven
+2025-05-15,Electrical,E992,Light Bulb Pack,6,129.88,North Terri
+2025-05-12,Appliances,A541,Dishwasher,3,86.11,Richardfurt
+2025-05-10,Appliances,A208,Microwave,8,11.35,Jennifershire
+2025-05-09,Appliances,A543,Microwave,1,141.07,West Michaelmouth
+2025-05-10,Electrical,E149,GFCI Outlet,1,98.41,Mckeemouth
+2025-05-15,Electrical,E128,Outlet Extension,4,90.86,East Joshuashire
+2025-05-15,Electrical,E252,Wire,8,64.88,South Jimmy
+2025-05-09,Tools,T333,Pliers,1,137.47,Lopezmouth
+2025-05-11,Appliances,A178,Dishwasher,8,121.77,Port Susanton
+2025-05-15,Electrical,E556,Wire,6,100.17,Jacksonburgh
+2025-05-03,Electrical,E146,Outlet Extension,9,20.94,Gonzalezhaven
+2025-05-03,Paint,P527,Brush Kit,10,113.5,Saramouth
+2025-05-05,Appliances,A360,Dishwasher,7,70.21,Lake Barbaraborough
+2025-05-01,Electrical,E826,GFCI Outlet,3,110.9,North Derek
+2025-05-07,Electrical,E126,GFCI Outlet,10,51.91,North Dominicshire
+2025-05-06,Paint,P344,Sandpaper,8,78.29,Robertshire
+2025-05-04,Paint,P993,Behr Primer,2,56.53,Shermanberg
+2025-05-14,Electrical,E947,Outlet Extension,1,89.26,Justinfort
+2025-05-03,Paint,P430,Brush Kit,10,80.08,Port Rodney
+2025-05-10,Tools,T886,Cordless Drill,3,38.73,Jayview
+2025-05-12,Appliances,A884,Mini Fridge,5,93.71,North Wendy
+2025-05-15,Tools,T752,Cordless Drill,9,125.14,North Stephanieberg
+2025-05-02,Appliances,A773,Oven,3,48.79,Sherryville
+2025-05-08,Tools,T347,Wrench Set,8,111.0,Kristinberg
+2025-05-10,Appliances,A273,Microwave,8,43.92,Moralesberg
+2025-05-01,Tools,T896,Cordless Drill,1,97.6,Caseyland
+2025-05-10,Electrical,E580,Outlet Extension,1,128.85,Johnsonhaven
+2025-05-06,Appliances,A833,Mini Fridge,4,136.69,East Sharon
+2025-05-06,Paint,P906,Brush Kit,3,148.31,Ashleybury
+2025-05-10,Tools,T767,Pliers,9,83.7,Port Robin
+2025-05-01,Paint,P332,Behr Primer,7,83.48,Kellyfurt
+2025-05-04,Paint,P743,Brush Kit,6,92.44,Benjaminchester
+2025-05-07,Paint,P315,Sandpaper,6,147.01,South Paulmouth
+2025-05-02,Paint,P725,Behr Primer,1,134.79,South Cathy
+2025-05-10,Appliances,A874,Microwave,2,141.54,East April
+2025-05-14,Tools,T700,Hammer,6,110.0,Colehaven
+2025-05-01,Electrical,E927,Wire,3,106.23,Rogersburgh
+2025-05-01,Electrical,E725,Wire,5,60.42,Camachoburgh
+2025-05-01,Electrical,E471,Light Bulb Pack,9,58.06,Lake Sarahfurt
+2025-05-15,Tools,T872,Hammer,1,37.79,Jenniferfurt
+2025-05-13,Appliances,A204,Oven,7,146.4,Walterbury
+2025-05-15,Paint,P562,Sandpaper,7,23.64,Nguyenburgh
+2025-05-04,Electrical,E694,Wire,6,50.68,Snyderland
+2025-05-04,Electrical,E972,Wire,4,115.87,Port Susanshire
+2025-05-06,Electrical,E222,Wire,4,31.09,Holmesstad
+2025-05-02,Paint,P304,Brush Kit,1,131.23,New Joshua
+2025-05-03,Appliances,A890,Dishwasher,9,149.78,Andreaton
+2025-05-12,Appliances,A699,Microwave,4,99.52,North Richard
+2025-05-13,Tools,T802,Wrench Set,5,100.87,Port Janettown
+2025-05-07,Appliances,A260,Dishwasher,7,49.14,Bakerfort
+2025-05-12,Electrical,E703,GFCI Outlet,4,73.53,Port Garytown
+2025-05-03,Tools,T710,Pliers,1,138.42,North Julie
+2025-05-06,Appliances,A430,Dishwasher,7,64.05,North Catherine
+2025-05-12,Paint,P415,Sandpaper,7,16.05,Woodhaven
+2025-05-13,Electrical,E542,Outlet Extension,2,148.87,Melissafurt
+2025-05-09,Tools,T820,Hammer,1,74.88,Smithborough
+2025-05-12,Tools,T963,Pliers,2,82.2,Leeville
+2025-05-03,Paint,P837,Behr Primer,9,47.37,Nancyfurt
+2025-05-09,Paint,P448,Interior Paint,1,58.05,South Ronaldburgh
+2025-05-06,Electrical,E370,Wire,2,19.2,South Christopher
+2025-05-13,Electrical,E382,Outlet Extension,4,70.75,Lake Melissaville
+2025-05-04,Appliances,A735,Microwave,4,120.6,West Anna
+2025-05-14,Paint,P877,Behr Primer,5,19.97,Dalemouth
+2025-05-12,Paint,P987,Behr Primer,5,58.04,South Jamestown
+2025-05-10,Paint,P791,Sandpaper,5,25.86,North Lauren
+2025-05-08,Paint,P436,Interior Paint,9,138.14,North Tanya
+2025-05-04,Electrical,E146,GFCI Outlet,9,123.14,Danielfort
+2025-05-13,Tools,T569,Pliers,6,53.1,Joshuaberg
+2025-05-15,Electrical,E385,Wire,3,144.76,Quinnton
+2025-05-03,Paint,P123,Behr Primer,10,37.13,Timothyhaven
+2025-05-07,Paint,P784,Brush Kit,1,19.59,East Jessica
+2025-05-08,Tools,T735,Pliers,1,133.21,South Michaelborough
+2025-05-02,Tools,T731,Pliers,8,19.19,Parkburgh
+2025-05-08,Paint,P676,Interior Paint,8,41.93,Biancaberg
+2025-05-14,Paint,P288,Interior Paint,4,137.5,Cantuhaven
+2025-05-04,Appliances,A458,Mini Fridge,10,17.51,Cruzberg
+2025-05-09,Paint,P592,Behr Primer,3,89.78,Melissaport
+2025-05-12,Appliances,A178,Mini Fridge,3,14.95,Wilkinsland
+2025-05-12,Paint,P906,Sandpaper,10,117.71,East Kevin
+2025-05-14,Paint,P207,Behr Primer,1,122.81,Port Robert
+2025-05-09,Paint,P629,Sandpaper,6,66.25,North Shaunland
+2025-05-01,Appliances,A816,Oven,6,14.61,Lake Jessicaview
+2025-05-06,Appliances,A192,Dishwasher,7,17.09,Lake Karen
+2025-05-05,Tools,T239,Pliers,4,13.3,Rodriguezland
+2025-05-01,Electrical,E680,Wire,4,78.99,Wilkinschester
+2025-05-03,Tools,T995,Pliers,1,113.56,South Christopher
+2025-05-05,Electrical,E141,Light Bulb Pack,10,113.65,Smithfort
+2025-05-02,Paint,P591,Interior Paint,3,148.03,Jacksonport
+2025-05-06,Appliances,A516,Mini Fridge,9,46.14,East Courtney
+2025-05-12,Electrical,E832,Outlet Extension,10,126.15,Zoeside
+2025-05-14,Electrical,E715,Wire,3,50.02,New Christine
+2025-05-06,Paint,P414,Brush Kit,7,34.97,Moyerhaven
+2025-05-04,Electrical,E269,Outlet Extension,4,101.79,North Howardstad
+2025-05-15,Paint,P749,Sandpaper,2,14.86,Smithstad
+2025-05-12,Paint,P215,Sandpaper,10,136.0,Lake Johnnyhaven
+2025-05-08,Tools,T912,Pliers,6,79.62,Scottton
+2025-05-09,Tools,T424,Pliers,4,15.62,South Kathy
+2025-05-02,Paint,P468,Behr Primer,5,146.26,New Nathan
+2025-05-05,Tools,T555,Hammer,10,69.11,Thomasland
+2025-05-07,Paint,P441,Behr Primer,7,141.05,Russellmouth
+2025-05-14,Tools,T323,Wrench Set,1,87.24,Salazarview
+2025-05-11,Tools,T943,Cordless Drill,7,144.4,Brewershire
+2025-05-01,Tools,T590,Cordless Drill,7,38.43,West Johnchester
+2025-05-04,Appliances,A952,Oven,10,103.47,Robertaport
+2025-05-11,Paint,P204,Sandpaper,9,10.66,Lake Mariahborough
+2025-05-03,Appliances,A203,Oven,2,50.04,East Tammy
+2025-05-05,Appliances,A948,Oven,7,122.16,New David
+2025-05-11,Tools,T596,Cordless Drill,9,87.57,Port Herbertport
+2025-05-05,Paint,P920,Behr Primer,5,145.34,Jonesstad
+2025-05-03,Appliances,A379,Dishwasher,10,69.25,South Lisa
+2025-05-11,Tools,T653,Hammer,4,55.09,Clarkland
+2025-05-13,Appliances,A204,Microwave,5,115.6,Jerryfurt
+2025-05-15,Paint,P687,Behr Primer,10,81.6,Evansmouth
+2025-05-05,Paint,P469,Behr Primer,8,64.45,Lake Michael
+2025-05-07,Electrical,E263,Outlet Extension,5,110.12,Port William
+2025-05-12,Electrical,E600,Outlet Extension,9,53.91,New Jonathan
+2025-05-03,Electrical,E541,Outlet Extension,7,48.42,Lake Jessica
+2025-05-04,Appliances,A876,Mini Fridge,5,76.87,Ashleyberg
