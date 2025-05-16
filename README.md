@@ -32,4 +32,5 @@ LIMIT 5;
 <img width="1273" alt="Screenshot 2025-05-16 at 1 38 11 PM" src="https://github.com/user-attachments/assets/2b58785c-dd59-45c9-aa5e-b972425101d7" />
 
 📷 QuickSight Dashboard
+
 <img width="628" alt="Screenshot 2025-05-16 at 1 38 34 PM" src="https://github.com/user-attachments/assets/67707cdf-e6b0-45d1-b845-af8056f19b82" />
