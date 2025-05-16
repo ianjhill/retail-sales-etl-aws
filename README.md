@@ -22,11 +22,13 @@ Athena Queries calculated KPIs: revenue, units sold, top products
 QuickSight Dashboard visualized sales trends and departmental insights
 
 Sample Insights from Athena
+``` sql
 SELECT product_name, SUM(total_price) AS total_revenue
 FROM cleaned_cleaned
 GROUP BY product_name
 ORDER BY total_revenue DESC
 LIMIT 5;
+```
 <img width="1273" alt="Screenshot 2025-05-16 at 1 38 11 PM" src="https://github.com/user-attachments/assets/2b58785c-dd59-45c9-aa5e-b972425101d7" />
 
 📷 QuickSight Dashboard
