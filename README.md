@@ -21,6 +21,8 @@ A cloud-based data engineering project that simulates daily retail sales process
  - Athena Queries calculated KPIs: revenue, units sold, top products
  - QuickSight Dashboard visualized sales trends and departmental insights
 
+<img width="801" alt="Screenshot 2025-05-16 at 2 04 25 PM" src="https://github.com/user-attachments/assets/27eb299f-e59d-4522-8dd7-9105bc179fa3" />
+
 ### Sample Insights from Athena
 ``` sql
 SELECT product_name, SUM(total_price) AS total_revenue
